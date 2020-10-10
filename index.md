@@ -18,7 +18,7 @@ page_sections:
   - link: "#blocks"
     link_text: Blocks
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
+    url: https://achilleasein.github.io/testbed/
     button_text: Import
 - template: content-feature
   block: feature-1
